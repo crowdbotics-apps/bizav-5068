@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bizav_5068.wsgi:application
